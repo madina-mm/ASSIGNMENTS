@@ -1,3 +1,3 @@
 # ASSIGNMENTS
 ## WEEK2 ##
-##### There is a c file about swapping two numbers in this repository #####
+##### This repository is for submitting assignments for C programming language course #####
