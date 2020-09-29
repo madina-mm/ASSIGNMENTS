@@ -1,0 +1,3 @@
+*.exe
+a
+"any other files you want git to ignore"
