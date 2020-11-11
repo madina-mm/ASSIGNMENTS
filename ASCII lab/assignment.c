@@ -20,6 +20,9 @@ void sort(char *source, char *integers, char *nonIntegers)
 	     k++;
      }
   }
+  
+  integers[n]='\0';
+  nonIntegers[k]='\0';
 
 }
 
